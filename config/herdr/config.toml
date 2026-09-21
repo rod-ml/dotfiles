@@ -1,0 +1,35 @@
+onboarding = false
+
+[keys]
+# Mirror kitty navigation on ctrl+alt (cmd chords are intercepted by kitty)
+focus_pane_left = "ctrl+alt+h"
+focus_pane_down = "ctrl+alt+j"
+focus_pane_up = "ctrl+alt+k"
+focus_pane_right = "ctrl+alt+l"
+next_tab = "ctrl+alt+]"
+previous_tab = "ctrl+alt+["
+split_vertical = "ctrl+alt+enter"
+split_horizontal = "ctrl+alt+shift+enter"
+close_pane = "ctrl+alt+w"
+close_tab = "ctrl+alt+shift+q"
+resize_pane_left = "ctrl+alt+shift+h"
+resize_pane_right = "ctrl+alt+shift+l"
+resize_pane_up = "ctrl+alt+shift+k"
+resize_pane_down = "ctrl+alt+shift+j"
+previous_workspace = "ctrl+alt+shift+["
+next_workspace = "ctrl+alt+shift+]"
+new_workspace = "ctrl+alt+shift+n"
+close_workspace = "ctrl+alt+shift+d"
+workspace_picker = "ctrl+alt+shift+g"
+rename_workspace = "ctrl+alt+shift+r"
+new_tab = "ctrl+alt+t"
+zoom = "ctrl+alt+z"
+
+[ui]
+status_indicators = "symbols"
+
+[ui.sound]
+enabled = true
+
+[ui.toast]
+delivery = "terminal"

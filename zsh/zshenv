@@ -1,0 +1,3 @@
+# sourced by zsh for every shell. real secrets live in ~/.secrets (untracked).
+setopt no_global_rcs
+[ -f "$HOME/.secrets" ] && source "$HOME/.secrets"

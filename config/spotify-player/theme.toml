@@ -1,0 +1,22 @@
+# Sora theme: https://github.com/Aejkatappaja/sora
+[[themes]]
+name = "sora"
+[themes.palette]
+background = "#0e1018"
+foreground = "#c8d0e0"
+black = "#0e1018"
+red = "#c46c78"
+green = "#90c8a0"
+yellow = "#d4b878"
+blue = "#80c8e0"
+magenta = "#b0a0d8"
+cyan = "#78b8b0"
+white = "#c8d0e0"
+bright_black = "#4a5468"
+bright_red = "#d88898"
+bright_green = "#a8d8b4"
+bright_yellow = "#e0c888"
+bright_blue = "#98d8f0"
+bright_magenta = "#c4b4e8"
+bright_cyan = "#90d0c8"
+bright_white = "#dce4f0"
