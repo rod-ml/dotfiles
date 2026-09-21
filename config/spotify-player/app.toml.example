@@ -1,7 +1,3 @@
-client_id = "7582ce5b26a446b9b8d413246771639c"
-client_secret = "3d5d66bf12b34000b5fa07e7764ff320"
-
-theme = "sora"
-# NOTE: this app must have your Spotify account added under
-# User Management in the developer dashboard, otherwise the API
-# strips fields (e.g. `tracks`) and playlist loading breaks
+client_id = "YOUR_SPOTIFY_CLIENT_ID"
+client_secret = "YOUR_SPOTIFY_CLIENT_SECRET"
+# copy to app.toml (untracked) and fill in real values from https://developer.spotify.com/dashboard
